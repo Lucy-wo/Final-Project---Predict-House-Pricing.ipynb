@@ -1,4 +1,4 @@
-# Final Project - Predict House Pricing.ipynb
+# Final Project - Predict House Pricing
 
 ## Teammates: 
-### Grace, Belinda, Andrew, Lucy
+## Grace, Belinda, Andrew, Lucy
