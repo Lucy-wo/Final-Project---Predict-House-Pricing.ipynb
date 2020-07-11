@@ -1,4 +1,5 @@
 # Final Project - Predict House Pricing
 
-## Teammates: 
-## Grace, Belinda, Andrew, Lucy
+
+Teammates: 
+Grace, Belinda, Andrew, Lucy
